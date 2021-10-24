@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <h1>Hola mundo en SpringFramework usando controladores</h1>
+    <h1>Home de aplicativo</h1>
 </body>
 </html>
