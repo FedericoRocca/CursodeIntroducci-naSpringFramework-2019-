@@ -1,0 +1,4 @@
+Ciclo de vida de una petición HTTP
+
+Front Controller (Servlet principal), dispatcher servlet
+    Despacha las peticiones al controlador mediante el HandlerMapping
