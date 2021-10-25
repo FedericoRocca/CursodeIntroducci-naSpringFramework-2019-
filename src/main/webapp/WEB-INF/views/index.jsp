@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Hola mundo en SpringFramework usando controladores</h1>
+    <h2>Index del aplicativo</h2>
+    ${listaCategorias}
 </body>
 </html>

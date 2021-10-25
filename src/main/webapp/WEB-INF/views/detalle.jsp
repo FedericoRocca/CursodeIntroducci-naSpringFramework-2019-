@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <h1>Home de aplicativo</h1>
+    <h1>Detalle del aplicativo</h1>
+    <h2>${mensaje}</h2>
 </body>
 </html>
